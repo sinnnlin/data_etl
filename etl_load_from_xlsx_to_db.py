@@ -8,7 +8,7 @@ pwd = '123456789'
 server = "localhost"
 db = 'project'
 port = "5432"
-dir = r'D:\programing\git\DataETL'
+dir = r'D:\programing\git\data_etl'
 
 
 
